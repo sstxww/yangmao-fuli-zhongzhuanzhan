@@ -30,7 +30,7 @@
 - 你认为它值得收录的原因
 - 是否需要登录、是否有地区限制、是否限时
 
-投稿入口：[提交新站点](https://github.com/sstxww/羊毛福利中转站/issues/new/choose)
+投稿入口：[提交新站点](https://github.com/sstxww/羊毛公益福利中转站/issues/new/choose)
 
 ## 关键词
 

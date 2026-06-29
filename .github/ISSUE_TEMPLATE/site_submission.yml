@@ -1,0 +1,45 @@
+name: 投稿新的公益羊毛站
+description: 推荐一个希望收录到羊毛公益中转站的新站点
+title: "[投稿] "
+labels:
+  - submission
+body:
+  - type: input
+    id: site_name
+    attributes:
+      label: 站点名称
+      placeholder: 例如：某某公益资源站
+    validations:
+      required: true
+  - type: input
+    id: site_url
+    attributes:
+      label: 站点链接
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: 推荐理由
+      description: 简单说明这个站点提供什么公益福利，为什么值得收录。
+    validations:
+      required: true
+  - type: dropdown
+    id: login_required
+    attributes:
+      label: 是否需要登录
+      options:
+        - 不需要
+        - 需要
+        - 不确定
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: 其他补充
+      description: 可补充地区限制、有效期、风险提示或使用说明。
+    validations:
+      required: false
+

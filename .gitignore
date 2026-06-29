@@ -1,0 +1,14 @@
+# Local files
+.DS_Store
+Thumbs.db
+
+# Do not publish site source or build output in this repository.
+src/
+dist/
+build/
+public/
+.next/
+node_modules/
+.env
+.env.*
+

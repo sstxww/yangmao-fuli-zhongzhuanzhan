@@ -30,7 +30,7 @@
 - 你认为它值得收录的原因
 - 是否需要登录、是否有地区限制、是否限时
 
-投稿入口：[提交新站点](https://github.com/sstxww/welfare-sstxww1-asia/issues/new/choose)
+投稿入口：[提交新站点](https://github.com/sstxww/羊毛福利中转站/issues/new/choose)
 
 ## 关键词
 
@@ -45,4 +45,3 @@
 ## 目标
 
 希望这个公益中转站越做越好，帮助更多人快速找到真实、可用、有价值的免费资源。
-

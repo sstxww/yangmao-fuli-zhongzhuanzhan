@@ -2,6 +2,16 @@
 
 # 羊毛公益中转站
 
+<h2>
+  <a href="https://welfare.sstxww1.asia/">立即访问主站：welfare.sstxww1.asia</a>
+</h2>
+
+<p>
+  <a href="https://welfare.sstxww1.asia/">
+    <img alt="立即访问 welfare.sstxww1.asia" src="https://img.shields.io/badge/立即访问-welfare.sstxww1.asia-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+</p>
+
 公益羊毛站合集、白嫖福利中心、投稿入口与风险反馈中心。
 
 [![Website](https://img.shields.io/badge/Website-welfare.sstxww1.asia-16a34a?style=for-the-badge)](https://welfare.sstxww1.asia/)
